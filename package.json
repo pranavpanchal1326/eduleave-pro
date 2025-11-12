@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "mongodb": "^6.20.0",
+    "recharts": "^3.2.1"
+  }
+}
